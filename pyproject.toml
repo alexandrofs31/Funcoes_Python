@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "funcoes-python"
+version = "0.1.0"
+description = ""
+authors = ["Alexandro Ferreira da Silva <61256073+alexandrofs31@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+loguru = "^0.7.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
